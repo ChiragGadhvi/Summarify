@@ -1,1 +1,1 @@
-
+"Summarify" - the one-stop-shop for quickly summarizing long pieces of text. Our AI-powered summarization tool condenses any text into an easy-to-digest summary in seconds. Try it out now for free and save time on your reading!
